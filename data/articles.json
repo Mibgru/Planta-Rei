@@ -1,0 +1,32 @@
+{
+  "1": {
+    "title": "Tecniche di irrigazione sostenibile per risparmiare acqua",
+    "subtitle": "Risparmio idrico in agricoltura",
+    "description": "Scopri le moderne tecniche di irrigazione che permettono di ottimizzare l'uso dell'acqua mantenendo elevata la produttività delle colture. L'irrigazione a goccia, l'irrigazione per aspersione e altri metodi innovativi stanno trasformando il modo in cui gestiamo l'acqua nei campi.",
+    "imageUrl": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "authorId": 1,
+    "id": 1,
+    "createdAt": "2025-03-29T11:19:09.739Z",
+    "updatedAt": "2025-03-29T11:19:09.739Z"
+  },
+  "2": {
+    "title": "Guida alla corretta fertilizzazione del terreno",
+    "subtitle": "Nutrire il suolo per colture sane",
+    "description": "Una fertilizzazione equilibrata è fondamentale per la salute delle piante. Ecco come pianificare un programma efficace per il tuo terreno, considerando i macro e micronutrienti necessari per ogni tipo di coltura e fase di crescita.",
+    "imageUrl": "https://images.unsplash.com/photo-1574943320219-5c1e677f23e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80",
+    "authorId": 1,
+    "id": 2,
+    "createdAt": "2025-03-29T11:19:09.740Z",
+    "updatedAt": "2025-03-29T11:19:09.740Z"
+  },
+  "3": {
+    "title": "Agricoltura di precisione: tecnologie e vantaggi",
+    "subtitle": "Il futuro dell'agricoltura è digitale",
+    "description": "L'agricoltura di precisione permette di ottimizzare gli interventi in campo. Ecco le tecnologie disponibili e i benefici economici e ambientali che possono portare alla tua azienda agricola, dal risparmio di input alla maggiore sostenibilità.",
+    "imageUrl": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "authorId": 1,
+    "id": 3,
+    "createdAt": "2025-03-29T11:19:09.740Z",
+    "updatedAt": "2025-03-29T11:19:09.740Z"
+  }
+}
